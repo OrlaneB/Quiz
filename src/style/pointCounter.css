@@ -1,0 +1,33 @@
+#pointCounter {
+    display: flex;
+    position: absolute;
+    top:10px;
+    left:10px;
+}
+
+#pointCounter * {
+    margin : 8px;
+}
+
+.percentageSpan {
+    aspect-ratio: 1;
+    padding: 5px;
+    background-color: white;
+    color:#020659;
+    border-radius: 50%;
+    font-weight: bold;
+}
+
+.GoodP {
+    color:#9904D9;
+    
+}
+
+.BadP {
+    color:#D96E30;
+}
+
+.ZeroP {
+    background-color: #D96E30;
+    color:white;
+}

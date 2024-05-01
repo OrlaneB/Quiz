@@ -1,0 +1,20 @@
+#app {
+    margin-top:-50px;
+}
+
+button {
+    background-color: white;
+    border:none;
+    border-radius: 15px;
+    color:#9904D9;
+    padding:15px;
+    font-size:0.9em;
+    cursor: pointer;
+    margin-top:25px;
+}
+
+
+button:hover {
+    background-color: #D96E30;
+    color: #020659;
+}
